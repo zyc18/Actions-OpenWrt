@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt (Raspberry Pi 3 Model B)
+name: Build OpenWrt (Thunder OneCloud)
 
 on:
   repository_dispatch:
