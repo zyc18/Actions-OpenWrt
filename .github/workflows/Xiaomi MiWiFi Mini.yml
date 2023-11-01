@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt (lede-xiaomi_miwifi-mini)
+name: Build OpenWrt (Xiaomi MiWiFi Mini)
 
 on:
   repository_dispatch:
